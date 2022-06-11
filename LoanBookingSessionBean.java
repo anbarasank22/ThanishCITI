@@ -5,7 +5,7 @@ import java.io.collection;
 import java.io.scanner;
 import java.io.outputprinter;
 import java.io.inputprinter;
-import java.io.inputprinter;
+import java.io.inputoutVIKRAM;
 public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  
